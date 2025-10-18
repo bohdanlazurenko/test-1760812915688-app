@@ -1,2 +1,3 @@
-# test-1760812915688-app
-AutonomiX client application - test-1760812915688-app
+# AutonomiX Test Deploy
+
+Тестовый проект для проверки деплоя.
